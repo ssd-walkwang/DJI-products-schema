@@ -1,7 +1,7 @@
 <!--
  * @Author: DSS
  * @Date: 2020-08-17 22:17:23
- * @LastEditTime: 2020-08-18 23:48:32
+ * @LastEditTime: 2020-08-18 23:51:47
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \DJI products schema\list.md
@@ -41,5 +41,7 @@ Phantom 4 Pro的相机配备1英寸2000万像素影像传感器，可拍摄4K/60
 https://www.dji.com/cn/phantom-4-pro?site=brandsite&from=landing_page  
 ### PHANTOM 4 ADVANCE  
 Phantom 4 Advanced的相机配备1英寸2000万像素影像传感器，可拍摄4K/60fps视频，并以14张/秒的速度拍摄静态照片。FlightAutonomy系统让Phantom 4 Advanced拥有五目机器视觉与前向避障能力，更安全、更智能。钛合金、镁合金材料使机身更轻盈坚固，让功能更加强大的Phantom 4 Advanced机身重量比Phantom 4更轻盈。  
+https://www.dji.com/cn/phantom-4-adv?site=brandsite&from=landing_page  
 ### PHANTOM 3 SE（已停产）  
 经典入门款  
+https://www.dji.com/cn/phantom-3-se?site=brandsite&from=landing_page  
